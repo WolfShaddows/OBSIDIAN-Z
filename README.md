@@ -37,4 +37,4 @@ The non-negotiable sustainability and security core:
 - **Thermal Governor (Go):** A thermodynamic enforcer ensuring the entire ecosystem operates under a strict Net-Zero energy budget.
 
 ---
-*Developed by Paul Musso (WolfShaddows) - Darkshadows Group | Córdoba, Argentina*
+*Developed by Paul Musso (WolfShaddows) - Darkshadows Group*
