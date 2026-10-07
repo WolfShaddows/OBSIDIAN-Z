@@ -1,0 +1,11 @@
+# Rust build artifacts & target files
+/4_Cognitive_PQC_Auditor/target/
+/3_Blue_Team_Obsidian/target/
+**/target/
+**/*.pdb
+**/*.exe
+*.lock
+
+# Docker & IDE temp files
+.vscode/
+.DS_Store
