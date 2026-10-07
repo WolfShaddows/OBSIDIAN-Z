@@ -15,7 +15,7 @@ The absolute core of OBSIDIAN-Z is sustainability and resilience. Running the fu
 *Note: A traditional legacy Java application would typically require hundreds of megabytes of heap space to buffer and process equivalent data streams, risking severe Garbage Collection pauses and OutOfMemory vulnerabilities on the mainframe.*
 
 ## 🧠 Architectural Thesis
-Traditional JVM-based microservices (even JDK 25) on mainframes expand the attack surface (e.g., deserialization RCEs) and consume excessive energy. OBSIDIAN-Z replaces this bloated paradigm with a polyglot architecture utilizing **Go** for high-speed networking, **Rust** for memory-safe RACF/SAF proxying and lattice-based Post-Quantum Cryptography (PQC), and **IBM Granite 4.2** for forensic payload auditing.
+Traditional JVM-based microservices (even JDK 25) on mainframes expand the attack surface (e.g., deserialization RCEs) and consume excessive energy. OBSIDIAN-Z replaces this bloated paradigm with a polyglot architecture utilizing **Go** for high-speed networking, **Rust** for native **C FFI RACF/SAF proxying** and NIST-standard **Post-Quantum Cryptography (PQC)**, and **IBM Granite 4.2** for forensic payload auditing.
 
 ## 📂 Ecosystem Modules
 
@@ -28,11 +28,11 @@ High-performance compiled Go binaries designed to stress-test the mainframe's pe
 The 'Mastodon'. A heavy, unoptimized Java container built on eclipse-temurin:25-jdk, demonstrating the high CPU/RAM footprint and security pitfalls of legacy enterprise deployments.
 
 ### 🔵 3. Blue Team Obsidian (Rust/Quarkus)
-The titanium shield. Features a minimal footprint using Red Hat UBI 9 Minimal and GraalVM native compilation, sitting behind a strictly typed **Rust-based RACF/SAF proxy** that drops unauthorized access before it hits the application logic.
+The titanium shield. Features a minimal footprint using Red Hat UBI 9 Minimal and GraalVM native compilation, protected by a strictly typed **Rust-based RACF/SAF proxy utilizing native C FFI bindings** to drop unauthorized access directly at the kernel boundary.
 
 ### ⚛️ 4. Cognitive & PQC Auditor (Rust/Go)
 The non-negotiable sustainability and security core:
-- **PQC Token Shield (Rust):** Seals session tokens using Lattice-based cryptography (CRYSTALS-Kyber model) making them mathematically unbreakable.
+- **PQC Token Shield (Rust):** Seals session tokens using **real CRYSTALS-Kyber (Kyber768) lattice-based cryptography** (NIST standard), rendering sessions mathematically unbreakable by quantum computers.
 - **Granite Forensic Auditor (Go):** A lightweight client interacting with local sovereign AI to classify dropped payloads.
 - **Thermal Governor (Go):** A thermodynamic enforcer ensuring the entire ecosystem operates under a strict Net-Zero energy budget.
 
