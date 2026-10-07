@@ -1,0 +1,13 @@
+[package]
+name = "obsidian_pqc_auditor"
+version = "1.0.0"
+edition = "2021"
+
+[[bin]]
+name = "pqc_shield"
+path = "pqc_token_shield.rs"
+
+[dependencies]
+pqcrypto-kyber = "0.8"
+pqcrypto-traits = "0.3"
+hex = "0.4"

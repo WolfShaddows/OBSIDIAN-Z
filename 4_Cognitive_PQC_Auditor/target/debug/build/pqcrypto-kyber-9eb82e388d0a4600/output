@@ -1,0 +1,432 @@
+cargo:rerun-if-env-changed=CC_FORCE_DISABLE
+CC_FORCE_DISABLE = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cbd.c
+indcpa.c
+kem.c
+ntt.c
+poly.c
+polyvec.c
+reduce.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+symmetric-shake.c
+verify.c
+pqclean\crypto_kem\kyber512\clean\verify.c(24): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=CC_FORCE_DISABLE
+CC_FORCE_DISABLE = None
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rustc-link-lib=static=kyber512_clean
+cargo:rustc-link-search=native=C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\build\pqcrypto-kyber-9eb82e388d0a4600\out
+cargo:rerun-if-env-changed=CC_FORCE_DISABLE
+CC_FORCE_DISABLE = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cbd.c
+indcpa.c
+kem.c
+ntt.c
+poly.c
+polyvec.c
+reduce.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+symmetric-shake.c
+verify.c
+pqclean\crypto_kem\kyber768\clean\verify.c(24): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=CC_FORCE_DISABLE
+CC_FORCE_DISABLE = None
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rustc-link-lib=static=kyber768_clean
+cargo:rustc-link-search=native=C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\build\pqcrypto-kyber-9eb82e388d0a4600\out
+cargo:rerun-if-env-changed=CC_FORCE_DISABLE
+CC_FORCE_DISABLE = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cbd.c
+indcpa.c
+kem.c
+ntt.c
+poly.c
+polyvec.c
+reduce.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+symmetric-shake.c
+verify.c
+pqclean\crypto_kem\kyber1024\clean\verify.c(24): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado a£n no tiene signo
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=CC_FORCE_DISABLE
+CC_FORCE_DISABLE = None
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug;C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\deps;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.3\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Semeru\jdk-25.0.1.8-openj9\bin;C:\Program Files\copasi.org\COPASI 4.45.298\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Recovery\OEM\Backup\;C:\Recovery\OEM\Backup;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files (x86)\ASF_Tools\MapReady 3.2;C:\Program Files (x86)\ASF_Tools\MapReady 3.2\lib;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\gnucobol\GnuCOBOL-Win32-MinGW-master\GnuCOBOL-Win32-MinGW-master\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\PC\AppData\Local\Programs\Python\Python310;C:\Users\PC\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\AMD\AMDuProf\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;c:\Users\PC\.vscode-oss\extensions\vadimcn.vscode-lldb-1.12.2\bin;C:\Users\PC\.cargo\bin;C:\Users\PC\anaconda3;C:\Users\PC\anaconda3\Library\mingw-w64\bin;C:\Users\PC\anaconda3\Library\usr\bin;C:\Users\PC\anaconda3\Library\bin;C:\Users\PC\anaconda3\Scripts;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\PC\AppData\Local\Programs\Ollama;C:\Users\PC\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\PC\AppData\Roaming\npm;C:\Users\PC\go\bin;C:\Users\PC\AppData\Local\Programs\MiKTeXa\miktex\bin\x64\;C:\Users\PC\AppData\Local\Programs\VSCodium\bin;C:\apache-maven-3.9.6\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.4\bin;C:\Users\PC\.local\bin;C:\Users\PC\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rustc-link-lib=static=kyber1024_clean
+cargo:rustc-link-search=native=C:\Users\PC\Desktop\OBSIDIAN-Z Project\4_Cognitive_PQC_Auditor\target\debug\build\pqcrypto-kyber-9eb82e388d0a4600\out
