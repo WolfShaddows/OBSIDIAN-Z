@@ -1,0 +1,11 @@
+# Explicación: Construcción nativa sobre Red Hat UBI 9 Minimal para máxima eficiencia.
+# Objetivo: Reducir drásticamente la huella de carbono y el peso de la imagen base.
+FROM registry.access.redhat.com/ubi9/ubi-minimal:9.3
+
+WORKDIR /work/
+RUN chmod 775 /work
+EXPOSE 8080
+USER 1001
+
+# Mantenemos el contenedor vivo midiendo su telemetría limpia en idle
+CMD ["tail", "-f", "/dev/null"]

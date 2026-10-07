@@ -1,0 +1,11 @@
+# Explicación: Imagen base pesada simulando un entorno corporativo con JDK 25 sin optimizar.
+# Objetivo: Demostrar un alto consumo de RAM y peso de imagen frente al Blue Team.
+FROM eclipse-temurin:25-jdk
+
+RUN apt-get update && apt-get install -y curl wget jq vim && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+EXPOSE 8080
+
+# Mantenemos el contenedor vivo para recolectar telemetría en Docker Desktop
+CMD ["tail", "-f", "/dev/null"]

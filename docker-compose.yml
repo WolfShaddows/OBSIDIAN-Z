@@ -1,0 +1,22 @@
+services:
+  legacy_core:
+    build:
+      context: ./2_Vulnerable_Core_Legacy
+      dockerfile: Dockerfile.bloated
+    ports:
+      - "8080:8080"
+    networks:
+      - mainframe_net
+
+  obsidian_blue_team:
+    build:
+      context: ./3_Blue_Team_Obsidian
+      dockerfile: Dockerfile.quarkus.native
+    ports:
+      - "8081:8080"
+    networks:
+      - mainframe_net
+
+networks:
+  mainframe_net:
+    driver: bridge
