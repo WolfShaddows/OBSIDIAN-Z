@@ -1,7 +1,7 @@
-// Explicación: Implementación REAL de criptografía post-cuántica usando CRYSTALS-Kyber (Kyber768).
-// Objetivo: Reemplazar el mock de strings con generación criptográfica real basada en retículas, cumpliendo con los estándares del NIST para la era post-cuántica en entornos z/OS.
+// Explicación: Código ajustado para la generación del par de claves post-cuánticas usando Kyber768.
+// Objetivo: Eliminar las advertencias de compilación importando únicamente los traits estrictamente necesarios (SharedSecret y Ciphertext) requeridos para el método .as_bytes(), manteniendo la eficiencia y delegando el tipado de claves a la inferencia nativa de Rust.
 use pqcrypto_kyber::kyber768::*;
-use pqcrypto_traits::kem::{Ciphertext, PublicKey, SecretKey, SharedSecret};
+use pqcrypto_traits::kem::{Ciphertext, SharedSecret};
 
 fn main() {
     println!("[PQC SHIELD] Inicializando motor criptográfico post-cuántico (NIST Standard: Kyber768)...");
